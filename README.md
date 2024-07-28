@@ -1,2 +1,2 @@
-# OpenAiImageGenerator
-This repo contains the application using the chat gpt api image generator
+C and C++ Whole notes
+This repo contains the c and c++ notes which gives the chapter wise solutions 
